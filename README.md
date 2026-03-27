@@ -1,14 +1,18 @@
-# Slide-Presentation-Collection
+# Slide Presentation
 
-A comprehensive archive of professional and academic presentations covering topics in AI, Biomedical Engineering, and Software Development.
+Collection of technical presentations and professional slides.
 
-## ┬┐ Presentation Topics
-- **Deep Learning Research**: Summaries of model architectures and results.
-- **Product Design**: Conceptual presentations for engineering projects.
-- **Technical Tutorials**: Educational decks for training sessions.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Structure
-- `media/`: Archived presentation files in PDF and PPTX formats.
+## Tech Stack
+- **Primary**: Presentation
+- **Domain**: Showcase
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
